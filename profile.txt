@@ -1,0 +1,5 @@
+Nama: andi
+Kelas: LZ01
+Hobi: mancing
+
+skill: git intermediate
